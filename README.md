@@ -13,6 +13,9 @@
 
 ![输入图片说明](images/image.png)
 
+#### 应用方式
+使用[smartchart](https://gitee.com/smartchart/smartchart)进行模板转化
+
 
 
 
