@@ -3,13 +3,10 @@
 #### 介绍
 基于HTML/CSS/Echarts的会议展览、业务监控、风险预警、数据分析展示等多种展示需求可视化集合。
 
- **2021-11-24** ：新增75套数据可视化源码
-
- **2021-11-22** ：24套数据可视化源码
-
+所有模板都是收集网络的，特别感谢：熊泽gitee的开源项目！
 
 演示地址：
- **[https://www.xiongze.net/viewdata/index.html](https://www.xiongze.net/viewdata/index.html)** 
+ **https://gpt-888.github.io/dashboards/** 
 
 ![输入图片说明](images/image.png)
 
