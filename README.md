@@ -6,7 +6,7 @@
 所有模板都是收集网络的，特别感谢：熊泽gitee的开源项目！
 
 演示地址：
- **https://kyst.null.fit/dashboards/** 
+ **https://gpt-888.github.io/dashboards/** 
 
 ![输入图片说明](images/image.png)
 
